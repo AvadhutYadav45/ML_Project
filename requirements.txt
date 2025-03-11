@@ -1,3 +1,4 @@
+#requirement.txt contains the packages that i need to impliment the model
 pandas
 numpy
 seaborn
